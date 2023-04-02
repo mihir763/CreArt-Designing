@@ -1,6 +1,7 @@
 # CreArt-Designing 
 
-🎗️This is a platform where business and invitations related items will be included.Select any of them and fill item related data.Soft copy 👾 of the items will be prepared according to user’s data taking from database.Then  it will be provided to the user as a soft copy.If users want to any changes 💸 in the soft copy,then change the design according to the user's suggestions.If user is satisfied with the soft copy, then the e-payment feasibility is available and the user will get the hard copy.From this website user will get both hard and soft copy.📜 User trustworthy reviews will also be found.🎯
+Various designs will be available on this platform. You can choose the design that you like and fill in the required data in the corresponding form. You will receive a soft copy of the design by email. In case of any errors, please use the Suggestion box provided. You can make e-payments for your selected product, and upon 
+successful payment, you will receive an order number that can be used to Track your product. Our platform is also available in 133 different Languages and includes a chatbox for communication. We use a secure platform like Razorpay for e-payments. We have also created an Admin panel, which makes it easy to access all the data.
 
 | How to Run | 
 
